@@ -9,25 +9,18 @@ Welcome to my GitHub profile! Here you'll find a variety of projects, ranging fr
 - 📫 How to reach me: mail me at cpanda494@gmail.com
 
 ### Technologies I Work With
-- Languages: Angular, PHP , Javascript
+- Languages: Angular, PHP , Javascript, Python
 - Frameworks: Codeigniter, Laravel, CakePHP 
 - Databases: Mysql, MongoDB
 - Others: API Development, GIT, Elastic Stack (ELK), RabbitMQ, Redis, Docker, GraphQL
 
 ### Let's Connect
 - LinkedIn: https://www.linkedin.com/in/chandrakanta-panda-2748b890/
+- [WhatsApp Channel - codewithpython](https://whatsapp.com/channel/0029Vb5urw8K0IBbTQ8NH53b)  <!-- Replace with actual invite URL -->
 
 Feel free to explore my repositories and connect with me! I'm always open to new opportunities and collaborations. Thanks for stopping by! 🚀
 
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/chandrakanta-panda-2748b890/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>
-
-  
-</p>
-
-<!--profile visit count-->
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=chandrakantapanda&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
