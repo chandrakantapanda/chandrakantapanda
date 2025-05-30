@@ -16,7 +16,8 @@ Welcome to my GitHub profile! Here you'll find a variety of projects, ranging fr
 
 ### Let's Connect
 - LinkedIn: https://www.linkedin.com/in/chandrakanta-panda-2748b890/
-- Python Learn Whatsapp Channel [WhatsApp Channel - codewithpython](https://whatsapp.com/channel/0029Vb5urw8K0IBbTQ8NH53b)  
+- Python Learn Whatsapp Channel [WhatsApp Channel - codewithpython](https://whatsapp.com/channel/0029Vb5urw8K0IBbTQ8NH53b)
+- Youtube Channel [@programmerchandra](https://www.youtube.com/@programmerchandra)
 
 Feel free to explore my repositories and connect with me! I'm always open to new opportunities and collaborations. Thanks for stopping by! 🚀
 
